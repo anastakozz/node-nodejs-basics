@@ -1,4 +1,4 @@
-import { promises as fsPromises, mkdir } from "node:fs";
+import { promises as fsPromises } from "node:fs";
 import path from "node:path";
 
 const copy = async () => {
